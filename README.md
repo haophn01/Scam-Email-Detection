@@ -29,7 +29,7 @@ It provides pre-trained models, saving time and computational resources.
   ```bash
   pip install transformers
 
-  ### 4. Torch**
+### **4. Torch**
 **Purpose**: torch is the deep learning framework required to run Transformer models. It serves as the backend for model computations.
 - **Installation**:
   ```bash
